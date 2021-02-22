@@ -1,6 +1,7 @@
 # sphere_final
 Финальный проект на Техносфере
 
+![](https://static.wikia.nocookie.net/meme/images/9/92/No_God_Please_No.gif/revision/latest/scale-to-width-down/480?cb=20200923075339)
 
 ## scraping
 Здесь мы решаем две задачи:
@@ -18,3 +19,6 @@
 
 ## prepare_data_and_train.ipynb
 Наконец, объединение всего, добавление новых фичей и получение предиктов ансамблем из YetiRankPairwise, StchocaticRank и LambdaRank
+
+## submissions
+Отдельно отправленные файлы и файлы обученных моделей
